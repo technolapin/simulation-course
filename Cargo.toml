@@ -9,3 +9,5 @@ edition = "2018"
 [dependencies]
 glium="0.29.0"
 nalgebra="*"
+rayon="*"
+rand = "*"
